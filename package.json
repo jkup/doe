@@ -1,6 +1,6 @@
 {
   "name": "doe",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Blog with view counter",
   "main": "./lib/doe.js",
   "scripts": {
