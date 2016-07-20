@@ -38,3 +38,6 @@ jspm_packages
 
 # Don't accidentally commit posts
 posts
+
+# Don't accidentally commit images
+images
