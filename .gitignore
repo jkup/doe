@@ -40,4 +40,4 @@ jspm_packages
 posts
 
 # Don't accidentally commit images
-images
+public/images
